@@ -1,4 +1,6 @@
 # Aplikasi Catatan Sederhana
+<img src="SS.png">
+
 
 Aplikasi web ringan dan responsif untuk membuat, membaca, mengedit, dan mengelola catatan. Dibuat dengan PHP dan SQLite untuk penggunaan dan penerapan yang mudah.
 
