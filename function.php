@@ -1,7 +1,7 @@
 <?php
 // fungsi buat koneksi database
 function connectDB() {
-    return new SQLite3('note.sqlite');
+    return new SQLite3('db_note.sqlite');
 }
 
 function createTable() {

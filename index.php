@@ -42,7 +42,7 @@ if (isset($_GET['delete_id'])) {
     <title>Notes App</title>
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <div class="popup-box <?php echo $editNote ? 'show' : ''; ?>">
